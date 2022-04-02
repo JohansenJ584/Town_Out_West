@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64d035f1621a3d04b8bb44ce7df6c046, type: 3}
+  m_Name: TestForest
+  m_EditorClassIdentifier: 
+  StartRoom: {fileID: 8854910548269771529, guid: f77df7403ef25b54191ba9e5ed0f7d31,
+    type: 3}
+  EndRoom: {fileID: 6199865732251675901, guid: c895dd8180172164c92486365762ddc3, type: 3}
+  floor: {fileID: 2377619488419300087, guid: cd3dde45726ea6940930592ee171fe86, type: 3}
+  Rooms:
+  - {fileID: 2377619488419300087, guid: 64ff78258955db44db2a5840e225c453, type: 3}
+  - {fileID: 13981423455164783, guid: b2177c7638b7589469b7ce72d3502b0f, type: 3}
+  - {fileID: 3185376225148871013, guid: 6d2db836604d3854aa6a5d282efc37c5, type: 3}
+  SpawnerObject: {fileID: 5992668941027512650, guid: 69dd95fa17c3e9b42a0a8f6d55786c91,
+    type: 3}
+  Monster:
+  - {fileID: 8812040380354671957, guid: bfc9c33baa7ff06498d5bfd0ff38a8e3, type: 3}
+  - {fileID: 5425991996229384367, guid: 54bd88f0252918742b6b6715a300abab, type: 3}
+  - {fileID: 7922377332656449485, guid: b534d4e96d906e1459d94417ab43baff, type: 3}
+  - {fileID: 1943311574100894925, guid: 7fafb93848c9d7f4da52f3b46324d40c, type: 3}
+  ResourceObject: {fileID: 239387923470414724, guid: e06dbf6188bf10b4b9feb625c2b4a7b6,
+    type: 3}
+  AllGrass:
+  - {fileID: 8543711935648443322, guid: 996135c8baa9e494385836c7c2114268, type: 3}
+  - {fileID: 8543711935648443322, guid: 6465dec932fc8164180e67b2350f657f, type: 3}
+  - {fileID: 8543711935648443322, guid: 0a9d3aa9383524341848cc68478cb8b5, type: 3}
+  - {fileID: 8543711935648443322, guid: 8457cd54779bf544f9dd0d555da05e43, type: 3}
+  - {fileID: 8543711935648443322, guid: 3f4bd1c71bdfec94dba7e2ef1b24e44e, type: 3}
+  - {fileID: 8543711935648443322, guid: 828b1d3be8725bc4fab141d8c01ee721, type: 3}
+  - {fileID: 8543711935648443322, guid: a1ef228f8a001c34eb718a53bd7b117a, type: 3}

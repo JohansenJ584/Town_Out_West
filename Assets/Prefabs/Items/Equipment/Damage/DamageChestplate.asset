@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4bf8a0fd9c48684eaa897fad17c602b, type: 3}
+  m_Name: DamageChestplate
+  m_EditorClassIdentifier: 
+  Itemname: DamageChestplate
+  icon: {fileID: 21300000, guid: 8fc187056e1921740986a7198eee7dde, type: 3}
+  isDefaultItem: 0
+  prefabEquipment: {fileID: 2295840030513756295, guid: 13751bc037a871d46b022b71daebc4a5,
+    type: 3}
+  equipSlot: 5
+  armorModifier: 0.1
+  speedModifier: 0
+  damageModifier: 0.3
+  rangeModifier: 0
+  gatheringModifier: 0
+  jumpModifier: 0

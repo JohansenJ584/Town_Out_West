@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4bf8a0fd9c48684eaa897fad17c602b, type: 3}
+  m_Name: DefaultBoots
+  m_EditorClassIdentifier: 
+  Itemname: DefaultBoots
+  icon: {fileID: 21300000, guid: 339a9eaa8007dd64a8f5c25af8de55e9, type: 3}
+  isDefaultItem: 1
+  prefabEquipment: {fileID: 8288537440758316759, guid: e9131091262a8b145a1b82b2d09150d9,
+    type: 3}
+  equipSlot: 7
+  armorModifier: 0.1
+  speedModifier: 0
+  damageModifier: 0
+  rangeModifier: 0
+  gatheringModifier: 0
+  jumpModifier: 0

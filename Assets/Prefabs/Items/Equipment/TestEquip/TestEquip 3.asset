@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4bf8a0fd9c48684eaa897fad17c602b, type: 3}
+  m_Name: TestEquip 3
+  m_EditorClassIdentifier: 
+  Itemname: Test4
+  icon: {fileID: 21300000, guid: 50a68d0f9b3197441be5be18b2bc7287, type: 3}
+  isDefaultItem: 0
+  prefabEquipment: {fileID: 3708855250264997028, guid: bd664776c6157904d96303c4fdf79bc5,
+    type: 3}
+  equipSlot: 0
+  damageModifier: 0

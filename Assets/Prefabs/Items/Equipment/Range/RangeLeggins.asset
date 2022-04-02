@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4bf8a0fd9c48684eaa897fad17c602b, type: 3}
+  m_Name: RangeLeggins
+  m_EditorClassIdentifier: 
+  Itemname: RangeLeggins
+  icon: {fileID: 21300000, guid: ae2a8a2a7944e2445b097ce385f8de03, type: 3}
+  isDefaultItem: 0
+  prefabEquipment: {fileID: 7535179507876507821, guid: 4c8986089cb85ff4cbb8a6e534033b28,
+    type: 3}
+  equipSlot: 6
+  armorModifier: 0.05
+  speedModifier: 0.05
+  damageModifier: 0
+  rangeModifier: 0.2
+  gatheringModifier: 0
+  jumpModifier: 0
