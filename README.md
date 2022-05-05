@@ -22,7 +22,7 @@ This is a personal project being develop within in Unity. It is a single player,
 
   * An inventory system to keep differing sets of equipment to change on the fly
 
-  * monster random drop system to sell drops to the town.​
+  * monster random drop system to sell drops to the town.
 
 * Resource System
 
@@ -32,7 +32,7 @@ This is a personal project being develop within in Unity. It is a single player,
 
 * Save system.
 
-  * Allows for the saving of world state and player inventory.​
+  * Allows for the saving of world state and player inventory.
 
 * Town
 
