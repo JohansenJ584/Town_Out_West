@@ -14,7 +14,7 @@ This is a personal project being develop within in Unity. It is a single player,
 
 * Equipment
 
-  * Allowing players to equip new armor and weapons' that will asset them in game play.
+  * Allows players to equip new armor and weapons' that will asset them in game play.
 
   * Switching animation between sword bow and resource equipment.
 
@@ -26,7 +26,7 @@ This is a personal project being develop within in Unity. It is a single player,
 
 * Resource System
 
-  * Resource system, includes coin to buy new equipment from town, and wood which can be used to unlock new shops in the town.​
+  * Resource system, includes coin to buy new equipment from town, and wood which can be used to unlock new shops in the town.
 
   * Wood can be gathered from the forest by cutting down trees
 
