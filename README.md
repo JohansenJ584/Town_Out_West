@@ -25,3 +25,5 @@
 
 * Town
   * Allow for level transition, and unlocking of new stores.
+
+itch.io https://johansenj584.itch.io/town-out-west
